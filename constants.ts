@@ -10,7 +10,7 @@ export const HERO_CONTENT = {
   greeting: "Hallo, ich bin",
   name: "Michael Förtsch",
   role: "Journalist, Photograph & Tech-Experte",
-  tagline: "Kultur-, Entertainment- und Tech-Journalist aus dem Münchner Speckgürtel. Co-Founder von 1E9.",
+  tagline: "Kultur-, Entertainment- und Tech-Journalist aus dem Münchner Speckgürtel. Leitender Redakteur bei 1E9.",
 };
 
 export const ABOUT_CONTENT = `
@@ -22,7 +22,7 @@ Dafür experimentiert er auch ganz gerne mit "neuen Technologien" wie Künstlich
 export const EXPERIENCES: Experience[] = [
   {
     id: '1',
-    role: 'Co-Founder & Redakteur',
+    role: 'Leitender Redakteur',
     company: '1E9',
     period: '2019 - Heute',
     description: 'Gründungsmitglied des spirituellen Nachfolgers von WIRED Germany. Arbeit an einem gleichnamigen Magazin und regelmäßig stattfindenden Konferenzen und Festivals rund um Kunst, Kultur, Technologie und Zukunft.',
